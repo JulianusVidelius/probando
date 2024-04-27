@@ -1,0 +1,19 @@
+*{
+   
+    box-sizing: border-box;
+}
+.tabla, td{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+}
+body{
+    background: #dfcdcd;
+}
+    
+p{
+    font-size: larger;
+}
+.España, .pais{
+    font-weight: bold;
+}
